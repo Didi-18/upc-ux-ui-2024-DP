@@ -1,3 +1,10 @@
-# upc-ux-ui-2024-DP
- Practica para modificar el README
+# Mi Proyecto
+Soy Diana, diseñadora gráfica que está aprendiendo sobre github.
+
+## Mis intereses
+Me gusta ver pelis y series.
+
+### Peli favorita
+Terminator 3 🤙🏻
+
 
